@@ -156,6 +156,7 @@
 - [Sinduri Gundu](https://github.com/Sinduri11)
 - [Madhav Gupta](https://github.com/madhavgupta07)
 - [Dmitriy Kruglov](https://github.com/dimakr)
+- Vashnavi 
 - [Oladeji Adeshina](https://github.com/Adeshina3002)
 - [Maneshwar Mehra](https://github.com/maneshwar-mehra)
 - [Christian Arteaga](https://github.com/chrisarap)
